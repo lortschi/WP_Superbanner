@@ -1,0 +1,33 @@
+form.superbanner_settings_form {
+    margin-top: 30px;
+}
+
+form .superbanner_settings_top {
+    display: flex;
+    height: 35px;
+    margin-bottom: 0;
+    padding: 10px 25px 10px;
+    background: #000;
+    color: #fff;
+    justify-content: space-between;
+    align-items: center;
+}
+
+form .superbanner_settings_top h2 {
+    margin-top: 15px!important;
+    color: #fff;
+}
+
+form .superbanner_settings_wrapper {
+    border: 2px solid #ccc;
+    padding: 0 20px;
+}
+
+form .superbanner_settings_wrapper input {
+    height: 35px;
+}
+
+form .superbanner_switch_checkbox {
+    height: 18px!important;
+}
+
